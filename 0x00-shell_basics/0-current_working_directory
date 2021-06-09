@@ -1,3 +1,2 @@
 #!/bin/bash
-ni apa sasa!
-pwd
+pwd \n
